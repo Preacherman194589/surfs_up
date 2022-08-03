@@ -24,4 +24,4 @@ Based on my findings, I noticed the folowings in the Month of June and December:
 
     
 ## Summary: 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+Based on the overall results, we can see throughout the summer that the temperatures appear steady and consistent. However, this only shows the month of June and not July, August, and parts of September. As for December, the temperatures dip, which could cause a drop in customers and seasonal planning. If there were two more additional weather queries that I would perform, one would be wind, and the other would be the time of the day when the temperature changes. 
