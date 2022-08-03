@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview of the analysis: 
-The client would like to open a shop on the Island of Oahu. The client reached out to another investor W.Avy about the ideal. W. Avy was pleased with the ideal, however, he was concerned about the weather in Oahu, having a prior business, it was a concenr. The client asked if I could conduct an analysis on the weather throughout the year. To conduct my analysis and determine the outcome, there were several types of files required and database needed. W.Avy has already installed several flat files into his SQL Database from his past business. Beside of using SQL, I also used Jupyter Notebook and VSCode to complete my work, I collected the climate_analysis.ipynb file and hawaii. sqlite dataset to completemy work. 
+The client would like to open a shop on the Island of Oahu. The client reached out to another investor W.Avy about the ideal. W. Avy was pleased with the ideal. However, he was concerned about the weather in Oahu; having a prior business, it was a concern. The client asked if I could analyze the weather throughout the year. Several types of files were required to conduct an analysis. W.Avy has already installed several flat files into his SQL Database from his past business. Besides SQL, I also used Jupyter Notebook and VSCode to complete my work, and I collected the climate_analysis.ipynb file and Hawaii. SQLite dataset to complete work. 
 
 ## Results: 
 Based on my findings, I noticed the folowings in the Month of June and December:
