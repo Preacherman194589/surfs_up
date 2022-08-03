@@ -1,4 +1,4 @@
-# surfs_up
+# SurfsUp
 
 ## Overview of the analysis: 
 The client would like to open a shop on the Island of Oahu. The client reached out to another investor W.Avy about the ideal. W. Avy was pleased with the ideal. However, he was concerned about the weather in Oahu; having a prior business, it was a concern. The client asked if I could analyze the weather throughout the year. Several types of files were required to conduct an analysis. W.Avy has already installed several flat files into his SQL Database from his past business. Besides SQL, I also used Jupyter Notebook and VSCode to complete my work, and I collected the climate_analysis.ipynb file and Hawaii. SQLite dataset to complete work. 
